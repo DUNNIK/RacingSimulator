@@ -17,8 +17,8 @@
 
         protected override float RestDuration()
         {
-            float first = 5;
-            float other = 8;
+            const float first = 5;
+            const float other = 8;
             if (RestCount == 0)
             {
                 RestCount++;
@@ -135,7 +135,7 @@
 
         protected override float RestDuration()
         {
-            float all = 2;
+            const float all = 2;
             return all;
         }
 

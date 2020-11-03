@@ -102,7 +102,7 @@ namespace RacingSimulator.Transport
         {
             double percent1 = 1;
 
-            for (int i = 0; i < distance / 1000; i++)
+            for (var i = 0; i < distance / 1000; i++)
             {
                 percent1 *= 0.99;
             }
