@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "n40eMpNOxT1WQsRneWwyMPtFsrzQT0SOcos6ggn/gc4PzN8NqwCx/ILxsle51IMyyh822dJ7rm7gPvHX/fI6hA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NIKITOS\\RiderProjects\\RacingSimulator\\RacingSimulator\\RacingSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NIKITOS\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\NIKITOS\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\NIKITOS\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\NIKITOS\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\NIKITOS\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\NIKITOS\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\NIKITOS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

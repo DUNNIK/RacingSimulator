@@ -1,0 +1,12 @@
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\bin\Debug\netcoreapp2.1\RacingSimulator.deps.json
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\bin\Debug\netcoreapp2.1\RacingSimulator.runtimeconfig.json
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\bin\Debug\netcoreapp2.1\RacingSimulator.runtimeconfig.dev.json
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\bin\Debug\netcoreapp2.1\RacingSimulator.dll
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\bin\Debug\netcoreapp2.1\RacingSimulator.pdb
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\obj\Debug\netcoreapp2.1\RacingSimulator.csprojAssemblyReference.cache
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\obj\Debug\netcoreapp2.1\RacingSimulator.AssemblyInfoInputs.cache
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\obj\Debug\netcoreapp2.1\RacingSimulator.AssemblyInfo.cs
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\obj\Debug\netcoreapp2.1\RacingSimulator.csproj.CoreCompileInputs.cache
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\obj\Debug\netcoreapp2.1\RacingSimulator.dll
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\obj\Debug\netcoreapp2.1\RacingSimulator.pdb
+C:\Users\NIKITOS\RiderProjects\RacingSimulator\RacingSimulator\obj\Debug\netcoreapp2.1\RacingSimulator.genruntimeconfig.cache

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\NIKITOS\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\NIKITOS\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_RacingSimulator.233474828.00" t="ExcludeRecursive" />
+    <e p="C:\Users\NIKITOS\RiderProjects\RacingSimulator" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RacingSimulator" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Exceptions" t="Include">
+          <e p="AddTransportException.cs" t="Include" />
+          <e p="DistanceException.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="RacingSimulator.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="RaceWithBuilder" t="Include">
+          <e p="RaceBuilder.cs" t="Include" />
+          <e p="RaceWithBuilder.cs" t="Include" />
+        </e>
+        <e p="RaceWithFactory" t="Include">
+          <e p="Factories" t="Include">
+            <e p="AirTransportRaceFactory.cs" t="Include" />
+            <e p="AllTransportRaceFactory.cs" t="Include" />
+            <e p="LandTransportRaceFactory.cs" t="Include" />
+          </e>
+          <e p="ITransportRaceFactory.cs" t="Include" />
+          <e p="RaceWithFactory.cs" t="Include" />
+        </e>
+        <e p="RacingSimulator.csproj" t="IncludeRecursive" />
+        <e p="Transport" t="Include">
+          <e p="AirTransport.cs" t="Include" />
+          <e p="LandTransport.cs" t="Include" />
+          <e p="Transport.cs" t="Include" />
+        </e>
+      </e>
+      <e p="RacingSimulator.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
